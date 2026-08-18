@@ -1,8 +1,8 @@
 # A2
 
-FlyRank Part 2 assignment that naturally continues from the first one. Instead of using an in-memory array, you will replace it with a real database while keeping exactly the same API. This reinforces the idea that persistence is an implementation detail behind the API, not a change to the API itself.
+FlyRank Part 2 assignment that naturally continues from the first one. Instead of using an in-memory array, you will replace it with a real database while keeping the same API. This reinforces the idea that persistence is an implementation detail behind the API, not a change to the API itself.
 
-![Screenshot of SQLite Database](/a2/images/Screenshot_35.png)
+![Screenshot of SQLite Database](/images/Screenshot_35.png)
 
 ## TechStack
 
